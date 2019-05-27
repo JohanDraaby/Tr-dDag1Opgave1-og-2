@@ -10,6 +10,8 @@ namespace TrådDag1Opgave1
     {
         static void Main(string[] args)
         {
+            Threads.ThreadsMain();
+            Console.ReadKey();
         }
     }
 }
